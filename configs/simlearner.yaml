@@ -1,0 +1,14 @@
+gpu: 0
+model_name: "simlearner"
+
+bsz: 64
+lr: 0.0001
+n_epochs: 300
+
+temperature: 0.5
+central_atom: "C3'"
+bb_atoms: ["C3'"]
+
+n_layers: 6
+drop_rate: 0.1
+hidden_dim: 128

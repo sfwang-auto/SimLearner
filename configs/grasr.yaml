@@ -1,0 +1,9 @@
+gpu: 0
+model_name: "grasr"
+
+bsz: 64
+lr: 0.0001
+n_epochs: 300
+
+central_atom: "C3'"
+bb_atoms: ["C3'"]
